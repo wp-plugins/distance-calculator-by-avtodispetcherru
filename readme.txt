@@ -1,6 +1,6 @@
 === distance-avtodispetcher.ru ===
 Contributors: iGuk 
-Tags: widget, russia, russian, route, routing, geo
+Tags: widget, route, routing, geo, map, transportation, logistics
 Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: trunk
