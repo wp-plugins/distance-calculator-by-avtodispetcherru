@@ -2,7 +2,7 @@
 Contributors: iGuk 
 Tags: widget, route, routing, geo, map, transportation, logistics
 Requires at least: 3.0
-Tested up to: 3.4.2
+Tested up to: 3.8
 Stable tag: trunk
 
 The plugin is designed for laying road route between the cities of Russia and major European cities. Russian language only.
